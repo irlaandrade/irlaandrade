@@ -1,6 +1,4 @@
-# Irla Andrade
-
-## Hello! 👋
+# Hi, I'm Irla Andrade 👋👩‍💻
 
 <br/> 💻 In love with technology
 <br/> 📚 Currently learning Java, JavaScript, Python, HTML, CSS
