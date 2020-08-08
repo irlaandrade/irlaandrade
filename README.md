@@ -1,7 +1,7 @@
 # Hi, I'm Irla Andrade 👋👩‍💻
 
 <br/> 💻 In love with technology
-<br/> 📚 Currently learning Java, JavaScript, Python, HTML, CSS
+<br/> 📚 Currently learning Java, JavaScript, Python, HTML5, CSS3
 <br/> 😄 About me: I usually play games, read books and watch series
 
 ---
