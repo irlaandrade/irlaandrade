@@ -1,5 +1,5 @@
 <div align="center">
-<img src="octocat.png" alt="GitHub Logo" width="250" height="250" />
+<img src="octocat-image.png" alt="GitHub Logo" width="250" height="250" />
 </div>
 
 <h1 align="center">Hi, I'm Irla Andrade 👋👩‍💻</h1>
