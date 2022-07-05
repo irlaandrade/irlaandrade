@@ -50,3 +50,11 @@
   <a href="https://www.linkedin.com/in/irlaandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<<<<<<< HEAD
+=======
+---
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula.irla@gmail.com)](mailto:paula.irla@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-irlaandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irlaandrade/)](https://www.linkedin.com/in/irlaandrade/)
+
+![Snake animation](https://github.com/irlaandrade/irlaandrade/blob/output/github-contribution-grid-snake.svg)
+>>>>>>> be5b54762fe5d2e99f4cb6a0b05abd62291aaef4
